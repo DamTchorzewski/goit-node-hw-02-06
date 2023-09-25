@@ -3,7 +3,6 @@ module.exports = {
     es2021: true,
     node: true,
     jest: true,
-     comon
   },
   extends: ["standard", "prettier"],
   parserOptions: {
